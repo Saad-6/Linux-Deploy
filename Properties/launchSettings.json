@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "lxd": {
+      "commandName": "Project",
+      "commandLineArgs": "rootdir E:\\repos\\Paradise"
+    }
+  }
+}
